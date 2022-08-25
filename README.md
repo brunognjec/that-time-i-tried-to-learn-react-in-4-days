@@ -2,4 +2,7 @@
 
 ## using beta react docs for documentacion
 
-# https://beta.reactjs.org/
+### https://beta.reactjs.org/
+
+
+Day 1:
